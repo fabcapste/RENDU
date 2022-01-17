@@ -1,2 +1,0 @@
-# RENDU
-Exo-20220117bis
